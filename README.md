@@ -3,9 +3,9 @@
 * ### [Chapter3 프로세스와 스레드](https://github.com/jihyun-s/Operating-systems/blob/main/README.md#chapter3-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80-%EC%8A%A4%EB%A0%88%EB%93%9C-1)
   + #### [요약](https://github.com/jihyun-s/Operating-systems/blob/main/README.md#%EC%9A%94%EC%95%BD-1)
   + #### [연습문제](https://github.com/jihyun-s/Operating-systems/blob/main/README.md#%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C-1)
-* ### [Chapter4 CPU 스케줄링](https://github.com/jihyun-s/Operating-systems#chapter4-cpu-%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81)
-  + #### [요약](https://github.com/jihyun-s/Operating-systems#%EC%9A%94%EC%95%BD-2)
-  + #### [연습문제](https://github.com/jihyun-s/Operating-systems#%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C-2)
+* ### [Chapter4 CPU 스케줄링](https://github.com/jihyun-s/Operating-systems#chapter4-cpu-%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81-1)
+  + #### [요약](https://github.com/jihyun-s/Operating-systems#%EC%9A%94%EC%95%BD-3)
+  + #### [연습문제](https://github.com/jihyun-s/Operating-systems#%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C-3)
 
 ***
 # Part2 프로세스 관리
