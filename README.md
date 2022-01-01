@@ -424,7 +424,7 @@
 11. 세마포어에서 내부 변수를 RS라고 할 때 세마포어 P()의 내부 코드를 쓰시오. 
 ```
 if RS > 0 then RS = RS-1; 
-else bloack();          // uutil RS > 0 
+else block();          // uutil RS > 0 
 ```
 
 12. 세마포어에서 내부 변수를 RS라고 할 때 세마포어 V()의 내부 코드를 쓰시오. 
