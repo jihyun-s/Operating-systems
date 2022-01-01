@@ -6,12 +6,12 @@
 * ### [Chapter4 CPU 스케줄링](https://github.com/jihyun-s/Operating-systems#chapter4-cpu-%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81-1)
   + #### [요약](https://github.com/jihyun-s/Operating-systems#%EC%9A%94%EC%95%BD-3)
   + #### [연습문제](https://github.com/jihyun-s/Operating-systems#%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C-3)
-* ### [Chapter5 프로세스 동기화]()
-  + #### [요약]()
-  + #### [연습문제]()
-* ### [Chapter6 교착 상태]()
-  + #### [요약]()
-  + #### [연습문제]() 
+* ### [Chapter5 프로세스 동기화](https://github.com/jihyun-s/Operating-systems/blob/main/README.md#chapter5-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EB%8F%99%EA%B8%B0%ED%99%94-1)
+  + #### [요약](https://github.com/jihyun-s/Operating-systems/blob/main/README.md#%EC%9A%94%EC%95%BD-6)
+  + #### [연습문제](https://github.com/jihyun-s/Operating-systems/blob/main/README.md#%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C-6)
+* ### [Chapter6 교착 상태](https://github.com/jihyun-s/Operating-systems/blob/main/README.md#chapter6-%EA%B5%90%EC%B0%A9-%EC%83%81%ED%83%9C-1)
+  + #### [요약](https://github.com/jihyun-s/Operating-systems/blob/main/README.md#%EC%9A%94%EC%95%BD-7)
+  + #### [연습문제](https://github.com/jihyun-s/Operating-systems/blob/main/README.md#%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C-7) 
 
 
 ***
