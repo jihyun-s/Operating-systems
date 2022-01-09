@@ -11,9 +11,9 @@
 * ## [Chapter6 교착 상태](https://github.com/jihyun-s/Operating-systems/blob/main/README.md#chapter6-%EA%B5%90%EC%B0%A9-%EC%83%81%ED%83%9C-1)
   + ### [요약](https://github.com/jihyun-s/Operating-systems/blob/main/README.md#%EC%9A%94%EC%95%BD-7)
   + ### [연습문제](https://github.com/jihyun-s/Operating-systems/blob/main/README.md#%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C-7) 
-* ## [Chapter7 물리 메모리 관리]()
-  + ### [요약]()
-  + ### [연습문제]()
+* ## [Chapter7 물리 메모리 관리](https://github.com/jihyun-s/Operating-systems/blob/main/README.md#chapter7-%EB%AC%BC%EB%A6%AC-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC-1)
+  + ### [요약](https://github.com/jihyun-s/Operating-systems/blob/main/README.md#%EC%9A%94%EC%95%BD-9)
+  + ### [연습문제](https://github.com/jihyun-s/Operating-systems/blob/main/README.md#%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C-9)
 
 
 ***
