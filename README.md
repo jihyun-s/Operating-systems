@@ -1,25 +1,31 @@
 # Operating Systems (쉽게 배우는 운영체제) 
 * ## [Chapter3 프로세스와 스레드](https://github.com/jihyun-s/Operating-systems/blob/main/README.md#chapter3-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80-%EC%8A%A4%EB%A0%88%EB%93%9C-1)
-  + ### [요약](https://github.com/jihyun-s/Operating-systems/blob/main/README.md#%EC%9A%94%EC%95%BD-1)
-  + ### [연습문제](https://github.com/jihyun-s/Operating-systems/blob/main/README.md#%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C-1)
+    + ### [요약](https://github.com/jihyun-s/Operating-systems/blob/main/README.md#%EC%9A%94%EC%95%BD-1)
+    + ### [연습문제](https://github.com/jihyun-s/Operating-systems/blob/main/README.md#%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C-1)
 * ## [Chapter4 CPU 스케줄링](https://github.com/jihyun-s/Operating-systems#chapter4-cpu-%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81-1)
-  + ### [요약](https://github.com/jihyun-s/Operating-systems#%EC%9A%94%EC%95%BD-3)
-  + ### [연습문제](https://github.com/jihyun-s/Operating-systems#%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C-3)
+    + ### [요약](https://github.com/jihyun-s/Operating-systems#%EC%9A%94%EC%95%BD-3)
+    + ### [연습문제](https://github.com/jihyun-s/Operating-systems#%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C-3)
 * ## [Chapter5 프로세스 동기화](https://github.com/jihyun-s/Operating-systems/blob/main/README.md#chapter5-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EB%8F%99%EA%B8%B0%ED%99%94-1)
-  + ### [요약](https://github.com/jihyun-s/Operating-systems/blob/main/README.md#%EC%9A%94%EC%95%BD-6)
-  + ### [연습문제](https://github.com/jihyun-s/Operating-systems/blob/main/README.md#%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C-6)
+    + ### [요약](https://github.com/jihyun-s/Operating-systems/blob/main/README.md#%EC%9A%94%EC%95%BD-6)
+    + ### [연습문제](https://github.com/jihyun-s/Operating-systems/blob/main/README.md#%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C-6)
 * ## [Chapter6 교착 상태](https://github.com/jihyun-s/Operating-systems/blob/main/README.md#chapter6-%EA%B5%90%EC%B0%A9-%EC%83%81%ED%83%9C-1)
-  + ### [요약](https://github.com/jihyun-s/Operating-systems/blob/main/README.md#%EC%9A%94%EC%95%BD-7)
-  + ### [연습문제](https://github.com/jihyun-s/Operating-systems/blob/main/README.md#%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C-7) 
+    + ### [요약](https://github.com/jihyun-s/Operating-systems/blob/main/README.md#%EC%9A%94%EC%95%BD-7)
+    + ### [연습문제](https://github.com/jihyun-s/Operating-systems/blob/main/README.md#%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C-7) 
 * ## [Chapter7 물리 메모리 관리](https://github.com/jihyun-s/Operating-systems/blob/main/README.md#chapter7-%EB%AC%BC%EB%A6%AC-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC-1)
-  + ### [요약](https://github.com/jihyun-s/Operating-systems/blob/main/README.md#%EC%9A%94%EC%95%BD-9)
-  + ### [연습문제](https://github.com/jihyun-s/Operating-systems/blob/main/README.md#%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C-9)
-+ ## [Chapter8 가상 메모리의 기초]()
-  + ### [요약]()
-  + ### [연습문제]()
-+ ## [Chapter9 가상 메모리 관리]()
-  + ### [요약]()
-  + ### [연습문제]()
+    + ### [요약](https://github.com/jihyun-s/Operating-systems/blob/main/README.md#%EC%9A%94%EC%95%BD-9)
+    + ### [연습문제](https://github.com/jihyun-s/Operating-systems/blob/main/README.md#%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C-9)
++ ## [Chapter8 가상 메모리의 기초](https://github.com/jihyun-s/Operating-systems#chapter8-%EA%B0%80%EC%83%81-%EB%A9%94%EB%AA%A8%EB%A6%AC%EC%9D%98-%EA%B8%B0%EC%B4%88-1)
+    + ### [요약](https://github.com/jihyun-s/Operating-systems#%EC%9A%94%EC%95%BD-12)
+    + ### [연습문제](https://github.com/jihyun-s/Operating-systems#%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C-12)
++ ## [Chapter9 가상 메모리 관리](https://github.com/jihyun-s/Operating-systems#chapter9-%EA%B0%80%EC%83%81-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC-1)
+    + ### [요약](https://github.com/jihyun-s/Operating-systems#%EC%9A%94%EC%95%BD-13)
+    + ### [연습문제](https://github.com/jihyun-s/Operating-systems#%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C-13)
++ ## [Chapter10 입출력 시스템과 저장장치]() 
+    + ### [요약]()
+    + ### [연습문제]()
++ ## [Chapter11 파일 시스템]()
+    + ### [요약]()
+    + ### [연습문제]() 
 
 ***
 ## Chapter3 프로세스와 스레드
@@ -722,6 +728,7 @@ void main()
     - 인터프리터 : 소스코드를 한 행씩 번역하여 실행한다. 자바스크립트, 베이직 등이 이 방식으로 프로그램을 실행한다.
     - 컴파일러는 실행 전에 소스코드를 점검하여 오류를 수정하고 필요 없는 부분을 정리하여 최적화된 실행 파일을 만든다. 복잡한 프로그램에는 컴파일러를 사용하고 간단한 프로그램에는 인터프리터를 사용한다. 
 
+
 구분 | 자바(컴파일러) | 자바스크립트(인터프리터) 
 --|--|--
 변수 | 변수를 선언해야 한다. | 변수를 선언할 필요가 없다. 
@@ -869,6 +876,7 @@ void main()
 
 
 2. 페이징 기법의 주소 변환 과정을 그림으로 그리고 설명하시오. 
+    - <img src="https://github.com/jihyun-s/Operating-systems/blob/main/IMG_0153.JPG" width="50%" height="50%" title="페이징 기법의 주소 변환"></img>
     - ex) 가상 주소 18번지에 접근 
     - 1) 가상 주소 18번지가 어느 페이지에 있는지 찾는다. 18번지는 페이지 1의 8번째 위치에 있다. 
     - 2) 페이지 테이블의 페이지1로 가서 해당 페이지가 프레임 3에 있다는 것을 알아낸다. 
@@ -923,6 +931,8 @@ void main()
 
 
 5. 페이지 교체 알고리즘 
+
+
 알고리즘 | 특징
 --|--
 무작위 | 무작위로 대상 페이지를 선정하여 스왑 영역으로 보낸다.
@@ -945,79 +955,90 @@ FIFO 변형 | FIFO 알고리즘을 변형하여 성능을 높인다.
 
 ### 연습문제
 1. 메모리 가져오기 정책 중, 사용자가 요구할 때 해당 페이지를 메모리로 가져오는 방식은 무엇인가? 
-
+    - 요구 페이징 
 
 2. 요구 페이징과 반대로 앞으로 필요할 것이라고 예상되는 페이지를 미리 가져오는 방식은 무엇인가? 
-
+    - 미리 가져오기 (ex. 캐시)
 
 3. 페이지 테이블 엔트리의 구조 중, 페이지가 실제 메모리에 있는지 나타내는 비트는 무엇인가? 
-
+    - 유효 비트 valid bit (현재 비트 present bit) 
 
 4. 페이지 테이블 엔트리의 구조 중, 페이지가 메모리에 올라온 후 사용한 적이 있는지 알려주는 비트는 무엇인가? 
-
+    - 접근 비트 access bit (참조 비트 reference bit) 
 
 5. 페이지 테이블 엔트리의 구조 중, 페이지가 메모리에 올라온 후 데이터의 변경이 있었는지 알려주는 비트는 무엇인가? 
-
+    - 변경 비트 modified bit (더티 비트 dirty bit)
 
 6. 프로세스가 페이지를 요청했을 때 해당 페이지가 메모리에 없는 상황을 무엇이라 하는가? 
-
+    - 페이지 부재 page fault 
 
 7. 기억장치에 접근하는 패턴이 메모리 전체에 고루 분포되는 것이 아니라 특정 영역에 집중되어 있는 성질을 무엇이라 하는가? 
-
+    - 지역성 locality 
 
 8. 처음으로 메모리에 올라온 페이지를 스왑 영역으로 보내는 페이지 교체 알고리즘은 무엇인가? 
-
+    - 선입선출 페이지 교체 알고리즘 FIFO (First In First Out page replacement algorithm) 
 
 9. 미래의 접근 패턴을 기준으로 대상 페이지를 선정하여 스왑 영역으로 보내는 방식으로, 실제로 구현이 불가능한 페이지 교체 알고리즘은 무엇인가? 
-
+    - 최적 페이지 교체 알고리즘 (optimal page replacement algorithm) 
 
 10. 시간적으로 멀리 떨어진 페이지를 스왑 영역으로 보내는 페이지 교체 알고리즘은 무엇인가? 
-
+    - 최근 최소 사용 페이지 교체 알고리즘 LRU (Least Recently Used page replacement algorithm) 
 
 11. 사용 빈도가 적은 페이지를 스왑 영역으로 보내는 페이지 교체 알고리즘은 무엇인가? 
-
+    - 최소 빈도 사용 알고리즘 LFU (Least Frequently Used page replacement algorithm) 
 
 12. 최근에 사용한 적이 없는 페이지를 스왑 영역으로 보내는 페이지 교체 알고리즘은 무엇인가? 
-
+    - 최근 미사용 페이지 교체 알고리즘 NUR (Not Used Recently page replacement algorithm) 
 
 13. FIFO 변형 페이지 교체 알고리즘 중, 성공한 페이지를 큐의 맨 뒤로 옮김으로써 기회를 한 번 더 주는 페이지 교체 알고리즘은 무엇인가? 
-
+    - 2차 기회 페이지 교체 알고리즘 (second chance page replacement algorithm) 
 
 14. FIFO 변형 페이지 교체 알고리즘 중, 대상 페이지를 가리키는 포인터를 사용하여 포인터가 큐의 맨 바닥으로 내려가면 다음에 다시 큐의 처음을 가리키게 하는 페이지 교체 알고리즘은 무엇인가? 
-
+    - 시계 알고리즘 (clock algorithm)
 
 15. 하드디스크의 입출력이 많아져서 잦은 페이지 부재로 작업이 거의 멈춰버린 상태를 무엇이라 하는가? 
-
+    - 스레싱 threshing 
 
 16. 동적 프레임 할당 방식 중, 최근 일정 시간 동안 참조된 페이지를 집합으로 유지하고 이 집합에 있는 페이지들을 물리 메모리에 유지하는 것은 무엇인가? 
-
+    - 작업집합 모델 working set model 
 
 17. 동적 프레임 할당 방식 중, 페이지 부재 비율의 상한선과 하한선을 설정하고 페이지 부재 비율이 상한선을 초과하면 할당 프레임을 늘려주는 것은 무엇인가? 
-
+    - 페이지 부재 빈도 page fault frequency 
 
 
 ### 심화문제
 1. 요구 페이징의 의미와 효과를 설명하시오. 
+    - 프로그램의 일부만 가져와 실행하고 사용자가 특정 기능을 요구할 때 해당 모듈을 메모리에 올리면 메모리의 절약, 메모리의 효율적 관리, 프로세스의 응답 속도 향상 등의 효과를 볼 수 있다. 이처럼 사용자가 요구할 때 해당 페이지를 메모리로 가져오는 것을 요구 페이징이라고 한다. 
 
 
 2. 세그먼테이션 오류와 페이지 부재의 차이를 설명하시오. 
+    - 세그멘테이션 오류는 사용자의 프로세스가 주어진 메모리 공간을 벗어나거나 접근 권한이 없는 곳에 접근할 때 발생한다. 즉 사용자 프로세스에 의해 발생하며 해당 프로세스를 강제 종료하여 해결한다. 반면 페이지 부재는 해당 페이지가 물리 메모리에 없을 때 발생하는 오류로 사용자 프로세스와 무관하다. 페이지 부재가 발생하면 메모리 관리자는 스왑 영역에서 해당 페이지를 물리 메모리로 옮긴 후 작업을 진행한다. 
 
 
 3. 지역성의 의미를 설명하시오. 
-
+    - 기억장치에 접근하는 패턴이 메모리 전체에 고루 분포되는 것이 아니라 특정 역영에 집중되는 성질을 말한다. 
+    - 공간의 지역성 : 현재 위치에서 가까운 데이터에 접근할 확률이 먼 거리에 있는 데이터에 접근할 확률보다 높다는 것이다. 
+    - 시간의 지역성 : 현재를 기준으로 가장 가까운 시간에 접근한 데이터가 더 먼 시간에 접근한 데이터보다 사용될 확률이 높다는 것이다. 
+    - 순차적 지역성 : 여러 작업이 순서대로 진행되는 경향이 있다는 것을 의미한다. 
 
 4. LRU 페이지 교체 알고리즘의 동작을 설명하시오. 
+    - 메모리에 올라온 후 가장 오랫동안 사용되지 않은 페이지를 스왑 영역으로 옮긴다. 즉 최근에 사용된 페이지는 놔두고 오래전에 사용된 페이지를 대상 페이지로 선정한다. LRU 페이지 교체 알고리즘은 시간을 기준으로 구현할 수 있으며 카운터나 참조 비트를 이용하는 방법도 있다. 
 
 
-5. NUR 페이지 교체 알고리즘의 동작을 설명하시오. 
+5. NUR 페이지 교체 알고리즘의 동작을 설명하시오.  (참조 비트-0,1, 변경 비트-0,1)
+    - 대상 페이지를 선정할 때는 (0, 0) , (0, 1), (1, 0), (1, 1) 중에 하나를 고르는데, 가장 먼저 (0, 0)인 페이지를 선정한다. 즉 접근한 적도 변경한 적도 없는 페이지를 스왑 영역으로 옮긴다. 만약 (0, 0)인 페이지가 없다면 (0, 1)인 페이지를, (0, 1)인 페이지가 없다면 (1, 0)인 페이지를, (1, 0)인 페이지도 없다면 최종적으로 (1, 1)인 페이지를 스왑 영역으로 옮긴다. NUR 페이지 교체 알고리즘에서 우선 고려 대상은 참조 비트이다. 모든 페이지가 (1, 1)이 되면 모든 페이지 비트를 (0, 0)으로 초기화한다 (reset)  
 
 
 6. 프레임 할당 방식 중 정적 할당에 대해 설명하시오. 
+    - 프로세스 실행 초기에 프레임을 나누어준 후 그 크기를 고정한다. 
+    - 균등 할당 (equal allocation) : 프로세스의 크기와 상관없이 사용 가능한 프레임을 모든 프로세스에 동일하게 할당한다. 크기가 큰 프로세스의 경우 필요한 만큼 프레임을 할당받지 못하기 때문에 페이지 부재가 빈번하게 발생하고, 크기가 작은 프로세스의 경우 메모리가 낭비된다.
+    - 비례 할당 (proportional allocation) : 프로세스의 크기에 비례하여 프레임을 할당하는 방식이다. 프로세스가 실행 중에 필요로 하는 프레임을 유동적으로 반영하지 못하며, 사용하지 않을 메모리를 처음부터 미리 확보하여 공간을 낭비한다. 
 
 
 7. 프레임 할당 방식 중 동적 할당에 대해 설명하시오. 
-
-
+    - 시시각각 변하는 요청을 수용하는 방식이 동적 할당(dynamic allocation)이다. 
+    - 작업집합 모델 (working set model) : 지역성 이론을 바탕으로 하며, 가장 최근에 접근한 프레임이 이후에도 또 참조될 가능성이 높다는 가정에서 출발한다. 최근 일정 시간 동안 참조된 페이지들을 집합으로 만들고, 이 집합에 있는 페이지들을 물리 메모리에 유지하여 프로세스의 실행을 돕는다. 물리 메모리에 유지할 페이지의 크기를 작업집합 크기(working set size)라고 하는데, 이는 작업집합에 들어갈 최대 페이지 수를 의미한다. 작업집합에 포함되는 페이지의 범위를 작업집합 윈도우(Working Set Window, WSW)라고 한다. 현재 시점에 최대 어느 범위까지의 페이지를 살펴볼 것인가를 결정하는 것이 작업집합 윈도우이다. 
+    - 페이지 부재 빈도 (page fault frequency) : 페이지 양을 동적으로 결정한다. 페이지 부재 비율의 상한선과 하한선을 설정하여 상한선을 초과하면 할당한 프레임이 적다는 것을 의미하므로 프레임을 추가하여 늘린다. 반대로 페이지 부재 비율이 하한선 밑으로 내려가면 메모리가 낭비된다는 의미이므로 할당한 프레임을 회수한다. 
 
 ***
 
