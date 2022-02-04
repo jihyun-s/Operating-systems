@@ -1,31 +1,14 @@
 # Operating Systems (쉽게 배우는 운영체제) 
-* ## [Chapter3 프로세스와 스레드](https://github.com/jihyun-s/Operating-systems/blob/main/README.md#chapter3-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80-%EC%8A%A4%EB%A0%88%EB%93%9C-1)
-    + ### [요약](https://github.com/jihyun-s/Operating-systems/blob/main/README.md#%EC%9A%94%EC%95%BD-1)
-    + ### [연습문제](https://github.com/jihyun-s/Operating-systems/blob/main/README.md#%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C-1)
+* ## [Chapter3 프로세스와 스레드](https://github.com/jihyun-s/Operating-systems#chapter3-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80-%EC%8A%A4%EB%A0%88%EB%93%9C-1)
 * ## [Chapter4 CPU 스케줄링](https://github.com/jihyun-s/Operating-systems#chapter4-cpu-%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81-1)
-    + ### [요약](https://github.com/jihyun-s/Operating-systems#%EC%9A%94%EC%95%BD-3)
-    + ### [연습문제](https://github.com/jihyun-s/Operating-systems#%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C-3)
 * ## [Chapter5 프로세스 동기화](https://github.com/jihyun-s/Operating-systems/blob/main/README.md#chapter5-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EB%8F%99%EA%B8%B0%ED%99%94-1)
-    + ### [요약](https://github.com/jihyun-s/Operating-systems/blob/main/README.md#%EC%9A%94%EC%95%BD-6)
-    + ### [연습문제](https://github.com/jihyun-s/Operating-systems/blob/main/README.md#%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C-6)
 * ## [Chapter6 교착 상태](https://github.com/jihyun-s/Operating-systems/blob/main/README.md#chapter6-%EA%B5%90%EC%B0%A9-%EC%83%81%ED%83%9C-1)
-    + ### [요약](https://github.com/jihyun-s/Operating-systems/blob/main/README.md#%EC%9A%94%EC%95%BD-7)
-    + ### [연습문제](https://github.com/jihyun-s/Operating-systems/blob/main/README.md#%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C-7) 
 * ## [Chapter7 물리 메모리 관리](https://github.com/jihyun-s/Operating-systems/blob/main/README.md#chapter7-%EB%AC%BC%EB%A6%AC-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC-1)
-    + ### [요약](https://github.com/jihyun-s/Operating-systems/blob/main/README.md#%EC%9A%94%EC%95%BD-9)
-    + ### [연습문제](https://github.com/jihyun-s/Operating-systems/blob/main/README.md#%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C-9)
 + ## [Chapter8 가상 메모리의 기초](https://github.com/jihyun-s/Operating-systems#chapter8-%EA%B0%80%EC%83%81-%EB%A9%94%EB%AA%A8%EB%A6%AC%EC%9D%98-%EA%B8%B0%EC%B4%88-1)
-    + ### [요약](https://github.com/jihyun-s/Operating-systems#%EC%9A%94%EC%95%BD-12)
-    + ### [연습문제](https://github.com/jihyun-s/Operating-systems#%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C-12)
 + ## [Chapter9 가상 메모리 관리](https://github.com/jihyun-s/Operating-systems#chapter9-%EA%B0%80%EC%83%81-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC-1)
-    + ### [요약](https://github.com/jihyun-s/Operating-systems#%EC%9A%94%EC%95%BD-13)
-    + ### [연습문제](https://github.com/jihyun-s/Operating-systems#%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C-13)
 + ## [Chapter10 입출력 시스템과 저장장치](https://github.com/jihyun-s/Operating-systems#chapter10-%EC%9E%85%EC%B6%9C%EB%A0%A5-%EC%8B%9C%EC%8A%A4%ED%85%9C%EA%B3%BC-%EC%A0%80%EC%9E%A5%EC%9E%A5%EC%B9%98-1) 
-    + ### [요약](https://github.com/jihyun-s/Operating-systems#%EC%9A%94%EC%95%BD-16)
-    + ### [연습문제](https://github.com/jihyun-s/Operating-systems#%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C-16)
 + ## [Chapter11 파일 시스템](https://github.com/jihyun-s/Operating-systems#chapter11-%ED%8C%8C%EC%9D%BC-%EC%8B%9C%EC%8A%A4%ED%85%9C-1)
-    + ### [요약](https://github.com/jihyun-s/Operating-systems#%EC%9A%94%EC%95%BD-17)
-    + ### [연습문제](https://github.com/jihyun-s/Operating-systems#%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C-17) 
+
 
 ***
 ## Chapter3 프로세스와 스레드
@@ -1281,6 +1264,4 @@ FIFO 변형 | FIFO 알고리즘을 변형하여 성능을 높인다.
 6. 디스크의 빈 공간 관리 방법을 설명하시오. 
     - 빈 공간을 효율적으로 관리하기 위해 빈 공간 리스트(free block list)를 유지한다. 파일 시스템에서는 파일 테이블의 헤더를 삭제하고 사용했던 블록을 빈 공간 리스트에 등록하는 것을 파일이 삭제된 것으로 간주한다. 블록의 내용을 지우지 않고 빈 공간 리스트에 삽입하는 것은 해당 블록에 새로운 데이터를 덮어쓰지 않는 한 원래 데이터를 복구할 수 있는 여지를 남긴다. 또한 빈 공간 리스트를 보고 새로운 블록을 할당할 때는 리스트에 먼저 들어온 블록부터 할당한다. (-> 디스크 복구, 휴지통 파일 되살리기 등이 가능함)
 
-
-***
 
